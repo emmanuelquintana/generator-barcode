@@ -1,0 +1,4 @@
+reportlab
+pandas
+pillow
+python-barcode

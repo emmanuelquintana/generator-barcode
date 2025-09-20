@@ -11,12 +11,13 @@ Este script proporciona una interfaz gráfica para generar etiquetas de producto
 - Detección automática de columnas relevantes en el CSV.
 - Generación de códigos de barras (EAN13 o Code128).
 
+
 ## Requisitos
 
-Instala las dependencias con:
+Instala las dependencias ejecutando:
 
 ```sh
-pip install reportlab pandas pillow python-barcode
+pip install -r requirements.txt
 ```
 
 ## Uso
